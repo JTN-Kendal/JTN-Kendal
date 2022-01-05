@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JTN-Kendal
 - 👀 I’m interested in data science, innovation, start-ups, biotech
-- 🌱 I’m currently learning 100days python, Python Data Science Handbook
+- 🌱 I’m currently learning 100days python, Python Data Science Handbook (day 48)
 - 💞️ I’m looking to collaborate on projects that will help me to improve python and basic data science skills
 - 📫 How to reach me: here.
 
